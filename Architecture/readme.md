@@ -1,6 +1,6 @@
 # AutoSimu
 
-AutoSimu est un script Python qui permet d'analyser les simulations. Il vise à proposer un outil non-intégré directement à Excel.
+Architecture est un script Python qui donne, avec une intensité objectif, la liste des combinaisons linéaires permettant d'obtenir l'intensité voulue, en fonction du prix. 
 
 ## Installation
 
