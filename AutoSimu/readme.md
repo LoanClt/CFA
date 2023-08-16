@@ -12,7 +12,7 @@ Reprendre le tutoriel d'installation de Python dans le Wiki, et remplacer : `pip
 Copiez et collez simplement le code du fichier `main.py` dans votre éditeur.
 ### Configuration
 Quelques éléments sont à modifier :
-- Les variables `a_pp, a_pa, c_pp, c_pa, objectif` sont modifiables. Ne pas toucher aux 6 variables suivantes.
+- Les variables `a_pp, a_pa, c_pp, c_pa, objectif` sont modifiables. Elles correspondent aux pertes (a = atténuateur ; c = compresseur ; pp = perte principale ; pa = perte autre). Ne pas toucher aux 6 variables suivantes.
 - La variable `path_to_excel` doit être modifiée pour contenir le chemin d'accès vers votre simulation.
 
 ## Utilisation
