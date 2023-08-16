@@ -1,4 +1,4 @@
-# AutoSimu
+# Architecture
 
 Architecture est un script Python qui donne, avec une intensité objectif, la liste des combinaisons linéaires permettant d'obtenir l'intensité voulue, en fonction du prix. 
 
